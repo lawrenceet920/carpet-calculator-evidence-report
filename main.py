@@ -3,8 +3,8 @@
 # Carpet Calculator Evidence report
 
 # Input
-length = float(input('Please enter the length of the room in feet (ex: 23):      '))
-width = float(input('Please enter the width of the room in feet (ex: 26):      '))
+length = float(input('Please enter the length of the room in feet (ex: 15):      '))
+width = float(input('Please enter the width of the room in feet (ex: 20):      '))
 cost_per_yard = float(input('Please enter the cost per yard of the carpet between $2.00 and $4.50 (do not include the "$" sign):      '))
 STATE_TAX = 0.06
 
